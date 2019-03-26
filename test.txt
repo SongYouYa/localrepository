@@ -1,7 +1,0 @@
-#include <stdio.h>
-void main()
-{
-int i;
-int j=10;
-//my boss is stupid
-}
