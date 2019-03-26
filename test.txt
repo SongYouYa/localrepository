@@ -2,4 +2,6 @@
 int main()
 {
 hellot helljjjfjfj:i
-hello i am ijji}
+hello i am ijji
+fix bog
+}
